@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.021678
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.029977
+            text = ""
+        intervals [2]:
+            xmin = 0.029977
+            xmax = 0.609977
+            text = "I"
+        intervals [3]:
+            xmin = 0.609977
+            xmax = 1.009977
+            text = "think"
+        intervals [4]:
+            xmin = 1.009977
+            xmax = 1.021678
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.029977
+            text = ""
+        intervals [2]:
+            xmin = 0.029977
+            xmax = 0.609977
+            text = "aI"
+        intervals [3]:
+            xmin = 0.609977
+            xmax = 1.009977
+            text = "T I N k"
+        intervals [4]:
+            xmin = 1.009977
+            xmax = 1.021678
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.029977
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.029977
+            xmax = 0.609977
+            text = "aI"
+        intervals [3]:
+            xmin = 0.609977
+            xmax = 0.679955
+            text = "T"
+        intervals [4]:
+            xmin = 0.679955
+            xmax = 0.709977
+            text = "I"
+        intervals [5]:
+            xmin = 0.709977
+            xmax = 0.979955
+            text = "n"
+        intervals [6]:
+            xmin = 0.979955
+            xmax = 1.009977
+            text = "k"
+        intervals [7]:
+            xmin = 1.009977
+            xmax = 1.021678
+            text = "<p:>"

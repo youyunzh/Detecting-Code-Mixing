@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.947483
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 18.947483
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 12.469977
+            text = ""
+        intervals [2]:
+            xmin = 12.469977
+            xmax = 15.179955
+            text = "x-x-x"
+        intervals [3]:
+            xmin = 15.179955
+            xmax = 18.947483
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 18.947483
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 12.469977
+            text = ""
+        intervals [2]:
+            xmin = 12.469977
+            xmax = 15.179955
+            text = "k s k s k s"
+        intervals [3]:
+            xmin = 15.179955
+            xmax = 18.947483
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 18.947483
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 12.469977
+            text = "<p:>"
+        intervals [2]:
+            xmin = 12.469977
+            xmax = 13.619955
+            text = "k"
+        intervals [3]:
+            xmin = 13.619955
+            xmax = 13.649977
+            text = "s"
+        intervals [4]:
+            xmin = 13.649977
+            xmax = 14.199955
+            text = "k"
+        intervals [5]:
+            xmin = 14.199955
+            xmax = 14.229977
+            text = "s"
+        intervals [6]:
+            xmin = 14.229977
+            xmax = 15.149977
+            text = "k"
+        intervals [7]:
+            xmin = 15.149977
+            xmax = 15.179955
+            text = "s"
+        intervals [8]:
+            xmin = 15.179955
+            xmax = 18.947483
+            text = "<p:>"

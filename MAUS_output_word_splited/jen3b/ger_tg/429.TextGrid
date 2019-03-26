@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.928798
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 0.928798
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.349977
+            text = "ja"
+        intervals [2]:
+            xmin = 0.349977
+            xmax = 0.409977
+            text = ""
+        intervals [3]:
+            xmin = 0.409977
+            xmax = 0.880000
+            text = "ja"
+        intervals [4]:
+            xmin = 0.880000
+            xmax = 0.928798
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 0.928798
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.349977
+            text = "j a"
+        intervals [2]:
+            xmin = 0.349977
+            xmax = 0.409977
+            text = ""
+        intervals [3]:
+            xmin = 0.409977
+            xmax = 0.880000
+            text = "j a"
+        intervals [4]:
+            xmin = 0.880000
+            xmax = 0.928798
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 0.928798
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.320000
+            text = "j"
+        intervals [2]:
+            xmin = 0.320000
+            xmax = 0.349977
+            text = "a"
+        intervals [3]:
+            xmin = 0.349977
+            xmax = 0.409977
+            text = "<p:>"
+        intervals [4]:
+            xmin = 0.409977
+            xmax = 0.639955
+            text = "j"
+        intervals [5]:
+            xmin = 0.639955
+            xmax = 0.880000
+            text = "a"
+        intervals [6]:
+            xmin = 0.880000
+            xmax = 0.928798
+            text = "<p:>"

@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.009342
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 9.009342
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.389977
+            text = "schwer"
+        intervals [2]:
+            xmin = 0.389977
+            xmax = 7.949977
+            text = ""
+        intervals [3]:
+            xmin = 7.949977
+            xmax = 8.879955
+            text = "schwer"
+        intervals [4]:
+            xmin = 8.879955
+            xmax = 9.009342
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 9.009342
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.389977
+            text = "S v e: 6"
+        intervals [2]:
+            xmin = 0.389977
+            xmax = 7.949977
+            text = ""
+        intervals [3]:
+            xmin = 7.949977
+            xmax = 8.879955
+            text = "S v e: 6"
+        intervals [4]:
+            xmin = 8.879955
+            xmax = 9.009342
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 9.009342
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.040000
+            text = "S"
+        intervals [2]:
+            xmin = 0.040000
+            xmax = 0.069977
+            text = "v"
+        intervals [3]:
+            xmin = 0.069977
+            xmax = 0.159955
+            text = "e:"
+        intervals [4]:
+            xmin = 0.159955
+            xmax = 0.389977
+            text = "6"
+        intervals [5]:
+            xmin = 0.389977
+            xmax = 7.949977
+            text = "<p:>"
+        intervals [6]:
+            xmin = 7.949977
+            xmax = 7.979955
+            text = "S"
+        intervals [7]:
+            xmin = 7.979955
+            xmax = 8.069977
+            text = "v"
+        intervals [8]:
+            xmin = 8.069977
+            xmax = 8.149977
+            text = "e:"
+        intervals [9]:
+            xmin = 8.149977
+            xmax = 8.879955
+            text = "6"
+        intervals [10]:
+            xmin = 8.879955
+            xmax = 9.009342
+            text = "<p:>"

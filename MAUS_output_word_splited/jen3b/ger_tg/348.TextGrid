@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.928798
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 0.928798
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.109977
+            text = "müsst"
+        intervals [2]:
+            xmin = 0.109977
+            xmax = 0.149977
+            text = "e"
+        intervals [3]:
+            xmin = 0.149977
+            xmax = 0.909977
+            text = "stimmen"
+        intervals [4]:
+            xmin = 0.909977
+            xmax = 0.928798
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 0.928798
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.109977
+            text = "m Y s t"
+        intervals [2]:
+            xmin = 0.109977
+            xmax = 0.149977
+            text = "? e:"
+        intervals [3]:
+            xmin = 0.149977
+            xmax = 0.909977
+            text = "S t I m @ n"
+        intervals [4]:
+            xmin = 0.909977
+            xmax = 0.928798
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 0.928798
+        intervals: size = 11
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.049977
+            text = "m"
+        intervals [2]:
+            xmin = 0.049977
+            xmax = 0.079955
+            text = "Y"
+        intervals [3]:
+            xmin = 0.079955
+            xmax = 0.109977
+            text = "s"
+        intervals [4]:
+            xmin = 0.109977
+            xmax = 0.149977
+            text = "e:"
+        intervals [5]:
+            xmin = 0.149977
+            xmax = 0.189977
+            text = "S"
+        intervals [6]:
+            xmin = 0.189977
+            xmax = 0.289977
+            text = "t"
+        intervals [7]:
+            xmin = 0.289977
+            xmax = 0.359955
+            text = "I"
+        intervals [8]:
+            xmin = 0.359955
+            xmax = 0.460000
+            text = "m"
+        intervals [9]:
+            xmin = 0.460000
+            xmax = 0.889977
+            text = "@"
+        intervals [10]:
+            xmin = 0.889977
+            xmax = 0.909977
+            text = "n"
+        intervals [11]:
+            xmin = 0.909977
+            xmax = 0.928798
+            text = "<p:>"

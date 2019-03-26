@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.928798
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 0.928798
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.359864
+            text = ""
+        intervals [2]:
+            xmin = 0.359864
+            xmax = 0.749841
+            text = "we"
+        intervals [3]:
+            xmin = 0.749841
+            xmax = 0.909841
+            text = "go"
+        intervals [4]:
+            xmin = 0.909841
+            xmax = 0.928798
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 0.928798
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.359864
+            text = ""
+        intervals [2]:
+            xmin = 0.359864
+            xmax = 0.749841
+            text = "w i:"
+        intervals [3]:
+            xmin = 0.749841
+            xmax = 0.909841
+            text = "g @U"
+        intervals [4]:
+            xmin = 0.909841
+            xmax = 0.928798
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 0.928798
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.359864
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.359864
+            xmax = 0.389841
+            text = "w"
+        intervals [3]:
+            xmin = 0.389841
+            xmax = 0.749841
+            text = "I"
+        intervals [4]:
+            xmin = 0.749841
+            xmax = 0.809841
+            text = "g"
+        intervals [5]:
+            xmin = 0.809841
+            xmax = 0.909841
+            text = "@U"
+        intervals [6]:
+            xmin = 0.909841
+            xmax = 0.928798
+            text = "<p:>"

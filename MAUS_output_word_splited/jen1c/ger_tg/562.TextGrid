@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.950476
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 1.950476
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.159546
+            text = ""
+        intervals [2]:
+            xmin = 0.159546
+            xmax = 0.449524
+            text = "na"
+        intervals [3]:
+            xmin = 0.449524
+            xmax = 0.819546
+            text = "da"
+        intervals [4]:
+            xmin = 0.819546
+            xmax = 0.899546
+            text = ""
+        intervals [5]:
+            xmin = 0.899546
+            xmax = 1.089524
+            text = "leb"
+        intervals [6]:
+            xmin = 1.089524
+            xmax = 1.429524
+            text = "e"
+        intervals [7]:
+            xmin = 1.429524
+            xmax = 1.769524
+            text = "ich"
+        intervals [8]:
+            xmin = 1.769524
+            xmax = 1.950476
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 1.950476
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.159546
+            text = ""
+        intervals [2]:
+            xmin = 0.159546
+            xmax = 0.449524
+            text = "n a"
+        intervals [3]:
+            xmin = 0.449524
+            xmax = 0.819546
+            text = "d a"
+        intervals [4]:
+            xmin = 0.819546
+            xmax = 0.899546
+            text = ""
+        intervals [5]:
+            xmin = 0.899546
+            xmax = 1.089524
+            text = "l e p"
+        intervals [6]:
+            xmin = 1.089524
+            xmax = 1.429524
+            text = "? e:"
+        intervals [7]:
+            xmin = 1.429524
+            xmax = 1.769524
+            text = "? I C"
+        intervals [8]:
+            xmin = 1.769524
+            xmax = 1.950476
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 1.950476
+        intervals: size = 14
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.159546
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.159546
+            xmax = 0.209524
+            text = "n"
+        intervals [3]:
+            xmin = 0.209524
+            xmax = 0.449524
+            text = "a"
+        intervals [4]:
+            xmin = 0.449524
+            xmax = 0.539501
+            text = "d"
+        intervals [5]:
+            xmin = 0.539501
+            xmax = 0.819546
+            text = "a"
+        intervals [6]:
+            xmin = 0.819546
+            xmax = 0.899546
+            text = "<p:>"
+        intervals [7]:
+            xmin = 0.899546
+            xmax = 0.989524
+            text = "l"
+        intervals [8]:
+            xmin = 0.989524
+            xmax = 1.059501
+            text = "e"
+        intervals [9]:
+            xmin = 1.059501
+            xmax = 1.089524
+            text = "p"
+        intervals [10]:
+            xmin = 1.089524
+            xmax = 1.429524
+            text = "e:"
+        intervals [11]:
+            xmin = 1.429524
+            xmax = 1.689524
+            text = "h"
+        intervals [12]:
+            xmin = 1.689524
+            xmax = 1.739501
+            text = "I"
+        intervals [13]:
+            xmin = 1.739501
+            xmax = 1.769524
+            text = "C"
+        intervals [14]:
+            xmin = 1.769524
+            xmax = 1.950476
+            text = "<p:>"

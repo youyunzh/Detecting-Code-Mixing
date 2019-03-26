@@ -1,0 +1,158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.993832
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 3.993832
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.868481
+            text = ""
+        intervals [2]:
+            xmin = 0.868481
+            xmax = 1.378458
+            text = "all"
+        intervals [3]:
+            xmin = 1.378458
+            xmax = 1.538458
+            text = ""
+        intervals [4]:
+            xmin = 1.538458
+            xmax = 2.088481
+            text = "right"
+        intervals [5]:
+            xmin = 2.088481
+            xmax = 2.348481
+            text = ""
+        intervals [6]:
+            xmin = 2.348481
+            xmax = 3.098458
+            text = "I'm"
+        intervals [7]:
+            xmin = 3.098458
+            xmax = 3.248435
+            text = ""
+        intervals [8]:
+            xmin = 3.248435
+            xmax = 3.568435
+            text = "safe"
+        intervals [9]:
+            xmin = 3.568435
+            xmax = 3.993832
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 3.993832
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.868481
+            text = ""
+        intervals [2]:
+            xmin = 0.868481
+            xmax = 1.378458
+            text = "O: l"
+        intervals [3]:
+            xmin = 1.378458
+            xmax = 1.538458
+            text = ""
+        intervals [4]:
+            xmin = 1.538458
+            xmax = 2.088481
+            text = "r aI t"
+        intervals [5]:
+            xmin = 2.088481
+            xmax = 2.348481
+            text = ""
+        intervals [6]:
+            xmin = 2.348481
+            xmax = 3.098458
+            text = "aI m"
+        intervals [7]:
+            xmin = 3.098458
+            xmax = 3.248435
+            text = ""
+        intervals [8]:
+            xmin = 3.248435
+            xmax = 3.568435
+            text = "s eI f"
+        intervals [9]:
+            xmin = 3.568435
+            xmax = 3.993832
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 3.993832
+        intervals: size = 15
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.868481
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.868481
+            xmax = 0.958458
+            text = "O:"
+        intervals [3]:
+            xmin = 0.958458
+            xmax = 1.378458
+            text = "l"
+        intervals [4]:
+            xmin = 1.378458
+            xmax = 1.538458
+            text = "<p:>"
+        intervals [5]:
+            xmin = 1.538458
+            xmax = 1.628435
+            text = "r"
+        intervals [6]:
+            xmin = 1.628435
+            xmax = 2.048481
+            text = "aI"
+        intervals [7]:
+            xmin = 2.048481
+            xmax = 2.088481
+            text = "t"
+        intervals [8]:
+            xmin = 2.088481
+            xmax = 2.348481
+            text = "<p:>"
+        intervals [9]:
+            xmin = 2.348481
+            xmax = 3.068481
+            text = "aI"
+        intervals [10]:
+            xmin = 3.068481
+            xmax = 3.098458
+            text = "m"
+        intervals [11]:
+            xmin = 3.098458
+            xmax = 3.248435
+            text = "<p:>"
+        intervals [12]:
+            xmin = 3.248435
+            xmax = 3.288481
+            text = "s"
+        intervals [13]:
+            xmin = 3.288481
+            xmax = 3.538458
+            text = "eI"
+        intervals [14]:
+            xmin = 3.538458
+            xmax = 3.568435
+            text = "f"
+        intervals [15]:
+            xmin = 3.568435
+            xmax = 3.993832
+            text = "<p:>"

@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.938141
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 9.938141
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.589751
+            text = ""
+        intervals [2]:
+            xmin = 3.589751
+            xmax = 6.049751
+            text = "thank"
+        intervals [3]:
+            xmin = 6.049751
+            xmax = 9.379728
+            text = ""
+        intervals [4]:
+            xmin = 9.379728
+            xmax = 9.549751
+            text = "you"
+        intervals [5]:
+            xmin = 9.549751
+            xmax = 9.938141
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 9.938141
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.589751
+            text = ""
+        intervals [2]:
+            xmin = 3.589751
+            xmax = 6.049751
+            text = "T { N k"
+        intervals [3]:
+            xmin = 6.049751
+            xmax = 9.379728
+            text = ""
+        intervals [4]:
+            xmin = 9.379728
+            xmax = 9.549751
+            text = "j u:"
+        intervals [5]:
+            xmin = 9.549751
+            xmax = 9.938141
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 9.938141
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.589751
+            text = "<p:>"
+        intervals [2]:
+            xmin = 3.589751
+            xmax = 3.719728
+            text = "T"
+        intervals [3]:
+            xmin = 3.719728
+            xmax = 5.939773
+            text = "{"
+        intervals [4]:
+            xmin = 5.939773
+            xmax = 5.979773
+            text = "N"
+        intervals [5]:
+            xmin = 5.979773
+            xmax = 6.049751
+            text = "k"
+        intervals [6]:
+            xmin = 6.049751
+            xmax = 9.379728
+            text = "<p:>"
+        intervals [7]:
+            xmin = 9.379728
+            xmax = 9.409751
+            text = "j"
+        intervals [8]:
+            xmin = 9.409751
+            xmax = 9.549751
+            text = "u:"
+        intervals [9]:
+            xmin = 9.549751
+            xmax = 9.938141
+            text = "<p:>"

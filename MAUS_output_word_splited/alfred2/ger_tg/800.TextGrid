@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.021678
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.139637
+            text = ""
+        intervals [2]:
+            xmin = 0.139637
+            xmax = 0.319592
+            text = "du"
+        intervals [3]:
+            xmin = 0.319592
+            xmax = 0.629615
+            text = "auch"
+        intervals [4]:
+            xmin = 0.629615
+            xmax = 1.021678
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.139637
+            text = ""
+        intervals [2]:
+            xmin = 0.139637
+            xmax = 0.319592
+            text = "d u:"
+        intervals [3]:
+            xmin = 0.319592
+            xmax = 0.629615
+            text = "? aU x"
+        intervals [4]:
+            xmin = 0.629615
+            xmax = 1.021678
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.139637
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.139637
+            xmax = 0.189615
+            text = "d"
+        intervals [3]:
+            xmin = 0.189615
+            xmax = 0.319592
+            text = "u:"
+        intervals [4]:
+            xmin = 0.319592
+            xmax = 0.609615
+            text = "O"
+        intervals [5]:
+            xmin = 0.609615
+            xmax = 0.629615
+            text = "x"
+        intervals [6]:
+            xmin = 0.629615
+            xmax = 1.021678
+            text = "<p:>"

@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.015510
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 5.015510
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.149977
+            text = "love"
+        intervals [2]:
+            xmin = 3.149977
+            xmax = 4.079955
+            text = "is"
+        intervals [3]:
+            xmin = 4.079955
+            xmax = 4.820000
+            text = ""
+        intervals [4]:
+            xmin = 4.820000
+            xmax = 5.000000
+            text = "all"
+        intervals [5]:
+            xmin = 5.000000
+            xmax = 5.015510
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 5.015510
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.149977
+            text = "l V v"
+        intervals [2]:
+            xmin = 3.149977
+            xmax = 4.079955
+            text = "I z"
+        intervals [3]:
+            xmin = 4.079955
+            xmax = 4.820000
+            text = ""
+        intervals [4]:
+            xmin = 4.820000
+            xmax = 5.000000
+            text = "O: l"
+        intervals [5]:
+            xmin = 5.000000
+            xmax = 5.015510
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 5.015510
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.540000
+            text = "l"
+        intervals [2]:
+            xmin = 1.540000
+            xmax = 3.040000
+            text = "V"
+        intervals [3]:
+            xmin = 3.040000
+            xmax = 3.149977
+            text = "v"
+        intervals [4]:
+            xmin = 3.149977
+            xmax = 4.049977
+            text = "I"
+        intervals [5]:
+            xmin = 4.049977
+            xmax = 4.079955
+            text = "z"
+        intervals [6]:
+            xmin = 4.079955
+            xmax = 4.820000
+            text = "<p:>"
+        intervals [7]:
+            xmin = 4.820000
+            xmax = 4.920000
+            text = "O:"
+        intervals [8]:
+            xmin = 4.920000
+            xmax = 5.000000
+            text = "l"
+        intervals [9]:
+            xmin = 5.000000
+            xmax = 5.015510
+            text = "<p:>"

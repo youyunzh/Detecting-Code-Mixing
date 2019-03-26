@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.058866
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 7.058866
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.899864
+            text = ""
+        intervals [2]:
+            xmin = 2.899864
+            xmax = 5.699864
+            text = "isn't"
+        intervals [3]:
+            xmin = 5.699864
+            xmax = 6.049841
+            text = ""
+        intervals [4]:
+            xmin = 6.049841
+            xmax = 6.799864
+            text = "it"
+        intervals [5]:
+            xmin = 6.799864
+            xmax = 7.058866
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 7.058866
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.899864
+            text = ""
+        intervals [2]:
+            xmin = 2.899864
+            xmax = 5.699864
+            text = "I z @ n t"
+        intervals [3]:
+            xmin = 5.699864
+            xmax = 6.049841
+            text = ""
+        intervals [4]:
+            xmin = 6.049841
+            xmax = 6.799864
+            text = "I t"
+        intervals [5]:
+            xmin = 6.799864
+            xmax = 7.058866
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 7.058866
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.899864
+            text = "<p:>"
+        intervals [2]:
+            xmin = 2.899864
+            xmax = 3.109841
+            text = "I"
+        intervals [3]:
+            xmin = 3.109841
+            xmax = 3.159819
+            text = "z"
+        intervals [4]:
+            xmin = 3.159819
+            xmax = 4.959864
+            text = "@"
+        intervals [5]:
+            xmin = 4.959864
+            xmax = 5.699864
+            text = "n"
+        intervals [6]:
+            xmin = 5.699864
+            xmax = 6.049841
+            text = "<p:>"
+        intervals [7]:
+            xmin = 6.049841
+            xmax = 6.739819
+            text = "I"
+        intervals [8]:
+            xmin = 6.739819
+            xmax = 6.799864
+            text = "t"
+        intervals [9]:
+            xmin = 6.799864
+            xmax = 7.058866
+            text = "<p:>"

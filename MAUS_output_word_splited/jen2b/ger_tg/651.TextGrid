@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.065034
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 3.065034
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.127392
+            text = ""
+        intervals [2]:
+            xmin = 1.127392
+            xmax = 2.417370
+            text = "x-x-x"
+        intervals [3]:
+            xmin = 2.417370
+            xmax = 3.065034
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 3.065034
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.127392
+            text = ""
+        intervals [2]:
+            xmin = 1.127392
+            xmax = 2.417370
+            text = "k s k s k s"
+        intervals [3]:
+            xmin = 2.417370
+            xmax = 3.065034
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 3.065034
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.127392
+            text = "<p:>"
+        intervals [2]:
+            xmin = 1.127392
+            xmax = 1.387392
+            text = "k"
+        intervals [3]:
+            xmin = 1.387392
+            xmax = 1.417370
+            text = "s"
+        intervals [4]:
+            xmin = 1.417370
+            xmax = 2.037370
+            text = "k"
+        intervals [5]:
+            xmin = 2.037370
+            xmax = 2.097370
+            text = "s"
+        intervals [6]:
+            xmin = 2.097370
+            xmax = 2.387347
+            text = "k"
+        intervals [7]:
+            xmin = 2.387347
+            xmax = 2.417370
+            text = "s"
+        intervals [8]:
+            xmin = 2.417370
+            xmax = 3.065034
+            text = "<p:>"

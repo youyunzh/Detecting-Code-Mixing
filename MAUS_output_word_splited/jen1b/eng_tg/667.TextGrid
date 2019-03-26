@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.972154
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 2.972154
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.749977
+            text = "in"
+        intervals [2]:
+            xmin = 1.749977
+            xmax = 2.200000
+            text = "what"
+        intervals [3]:
+            xmin = 2.200000
+            xmax = 2.959955
+            text = "way"
+        intervals [4]:
+            xmin = 2.959955
+            xmax = 2.972154
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 2.972154
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.749977
+            text = "I n"
+        intervals [2]:
+            xmin = 1.749977
+            xmax = 2.200000
+            text = "w Q t"
+        intervals [3]:
+            xmin = 2.200000
+            xmax = 2.959955
+            text = "w eI"
+        intervals [4]:
+            xmin = 2.959955
+            xmax = 2.972154
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 2.972154
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.120000
+            text = "I"
+        intervals [2]:
+            xmin = 0.120000
+            xmax = 1.749977
+            text = "n"
+        intervals [3]:
+            xmin = 1.749977
+            xmax = 1.799955
+            text = "w"
+        intervals [4]:
+            xmin = 1.799955
+            xmax = 2.200000
+            text = "Q"
+        intervals [5]:
+            xmin = 2.200000
+            xmax = 2.529977
+            text = "w"
+        intervals [6]:
+            xmin = 2.529977
+            xmax = 2.959955
+            text = "eI"
+        intervals [7]:
+            xmin = 2.959955
+            xmax = 2.972154
+            text = "<p:>"

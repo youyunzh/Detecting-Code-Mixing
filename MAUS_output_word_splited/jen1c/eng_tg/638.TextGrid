@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.021678
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.289252
+            text = ""
+        intervals [2]:
+            xmin = 0.289252
+            xmax = 0.349206
+            text = "the"
+        intervals [3]:
+            xmin = 0.349206
+            xmax = 0.444218
+            text = "way"
+        intervals [4]:
+            xmin = 0.444218
+            xmax = 0.589206
+            text = "you"
+        intervals [5]:
+            xmin = 0.589206
+            xmax = 0.949206
+            text = "said"
+        intervals [6]:
+            xmin = 0.949206
+            xmax = 1.009206
+            text = "it"
+        intervals [7]:
+            xmin = 1.009206
+            xmax = 1.021678
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.289252
+            text = ""
+        intervals [2]:
+            xmin = 0.289252
+            xmax = 0.349206
+            text = "D @"
+        intervals [3]:
+            xmin = 0.349206
+            xmax = 0.444218
+            text = "w eI"
+        intervals [4]:
+            xmin = 0.444218
+            xmax = 0.589206
+            text = "j u:"
+        intervals [5]:
+            xmin = 0.589206
+            xmax = 0.949206
+            text = "s e d"
+        intervals [6]:
+            xmin = 0.949206
+            xmax = 1.009206
+            text = "I t"
+        intervals [7]:
+            xmin = 1.009206
+            xmax = 1.021678
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 13
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.289252
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.289252
+            xmax = 0.319229
+            text = "D"
+        intervals [3]:
+            xmin = 0.319229
+            xmax = 0.349206
+            text = "@"
+        intervals [4]:
+            xmin = 0.349206
+            xmax = 0.379229
+            text = "w"
+        intervals [5]:
+            xmin = 0.379229
+            xmax = 0.444218
+            text = "eI"
+        intervals [6]:
+            xmin = 0.444218
+            xmax = 0.499184
+            text = "j"
+        intervals [7]:
+            xmin = 0.499184
+            xmax = 0.589206
+            text = "u:"
+        intervals [8]:
+            xmin = 0.589206
+            xmax = 0.739229
+            text = "s"
+        intervals [9]:
+            xmin = 0.739229
+            xmax = 0.919229
+            text = "e"
+        intervals [10]:
+            xmin = 0.919229
+            xmax = 0.949206
+            text = "d"
+        intervals [11]:
+            xmin = 0.949206
+            xmax = 0.979229
+            text = "I"
+        intervals [12]:
+            xmin = 0.979229
+            xmax = 1.009206
+            text = "t"
+        intervals [13]:
+            xmin = 1.009206
+            xmax = 1.021678
+            text = "<p:>"

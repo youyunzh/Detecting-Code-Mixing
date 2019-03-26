@@ -1,0 +1,118 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.065034
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 3.065034
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.957868
+            text = ""
+        intervals [2]:
+            xmin = 0.957868
+            xmax = 1.427846
+            text = "oh"
+        intervals [3]:
+            xmin = 1.427846
+            xmax = 1.497868
+            text = "dear"
+        intervals [4]:
+            xmin = 1.497868
+            xmax = 1.707846
+            text = ""
+        intervals [5]:
+            xmin = 1.707846
+            xmax = 1.927846
+            text = "oh"
+        intervals [6]:
+            xmin = 1.927846
+            xmax = 2.737823
+            text = "dear"
+        intervals [7]:
+            xmin = 2.737823
+            xmax = 3.065034
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 3.065034
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.957868
+            text = ""
+        intervals [2]:
+            xmin = 0.957868
+            xmax = 1.427846
+            text = "@U"
+        intervals [3]:
+            xmin = 1.427846
+            xmax = 1.497868
+            text = "d I@"
+        intervals [4]:
+            xmin = 1.497868
+            xmax = 1.707846
+            text = ""
+        intervals [5]:
+            xmin = 1.707846
+            xmax = 1.927846
+            text = "@U"
+        intervals [6]:
+            xmin = 1.927846
+            xmax = 2.737823
+            text = "d I@"
+        intervals [7]:
+            xmin = 2.737823
+            xmax = 3.065034
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 3.065034
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.957868
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.957868
+            xmax = 1.427846
+            text = "@U"
+        intervals [3]:
+            xmin = 1.427846
+            xmax = 1.457823
+            text = "d"
+        intervals [4]:
+            xmin = 1.457823
+            xmax = 1.497868
+            text = "I@"
+        intervals [5]:
+            xmin = 1.497868
+            xmax = 1.707846
+            text = "<p:>"
+        intervals [6]:
+            xmin = 1.707846
+            xmax = 1.927846
+            text = "@U"
+        intervals [7]:
+            xmin = 1.927846
+            xmax = 1.967846
+            text = "d"
+        intervals [8]:
+            xmin = 1.967846
+            xmax = 2.737823
+            text = "I@"
+        intervals [9]:
+            xmin = 2.737823
+            xmax = 3.065034
+            text = "<p:>"

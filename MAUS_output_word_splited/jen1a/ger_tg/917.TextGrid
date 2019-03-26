@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.003175
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 13.003175
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.008662
+            text = ""
+        intervals [2]:
+            xmin = 1.008662
+            xmax = 12.988662
+            text = "x-x-x"
+        intervals [3]:
+            xmin = 12.988662
+            xmax = 13.003175
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 13.003175
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.008662
+            text = ""
+        intervals [2]:
+            xmin = 1.008662
+            xmax = 12.988662
+            text = "k s k s k s"
+        intervals [3]:
+            xmin = 12.988662
+            xmax = 13.003175
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 13.003175
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.008662
+            text = "<p:>"
+        intervals [2]:
+            xmin = 1.008662
+            xmax = 2.508662
+            text = "k"
+        intervals [3]:
+            xmin = 2.508662
+            xmax = 2.678639
+            text = "s"
+        intervals [4]:
+            xmin = 2.678639
+            xmax = 11.358685
+            text = "k"
+        intervals [5]:
+            xmin = 11.358685
+            xmax = 11.388662
+            text = "s"
+        intervals [6]:
+            xmin = 11.388662
+            xmax = 12.968662
+            text = "k"
+        intervals [7]:
+            xmin = 12.968662
+            xmax = 12.988662
+            text = "s"
+        intervals [8]:
+            xmin = 12.988662
+            xmax = 13.003175
+            text = "<p:>"

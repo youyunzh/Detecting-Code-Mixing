@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.950476
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 1.950476
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.159637
+            text = ""
+        intervals [2]:
+            xmin = 0.159637
+            xmax = 0.659637
+            text = "when"
+        intervals [3]:
+            xmin = 0.659637
+            xmax = 0.719592
+            text = "you"
+        intervals [4]:
+            xmin = 0.719592
+            xmax = 1.439637
+            text = "are"
+        intervals [5]:
+            xmin = 1.439637
+            xmax = 1.749615
+            text = "young"
+        intervals [6]:
+            xmin = 1.749615
+            xmax = 1.819592
+            text = "you"
+        intervals [7]:
+            xmin = 1.819592
+            xmax = 1.849615
+            text = "are"
+        intervals [8]:
+            xmin = 1.849615
+            xmax = 1.939592
+            text = "not"
+        intervals [9]:
+            xmin = 1.939592
+            xmax = 1.950476
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 1.950476
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.159637
+            text = ""
+        intervals [2]:
+            xmin = 0.159637
+            xmax = 0.659637
+            text = "w e n"
+        intervals [3]:
+            xmin = 0.659637
+            xmax = 0.719592
+            text = "j u:"
+        intervals [4]:
+            xmin = 0.719592
+            xmax = 1.439637
+            text = "A:"
+        intervals [5]:
+            xmin = 1.439637
+            xmax = 1.749615
+            text = "j V N"
+        intervals [6]:
+            xmin = 1.749615
+            xmax = 1.819592
+            text = "j u:"
+        intervals [7]:
+            xmin = 1.819592
+            xmax = 1.849615
+            text = "A:"
+        intervals [8]:
+            xmin = 1.849615
+            xmax = 1.939592
+            text = "n Q t"
+        intervals [9]:
+            xmin = 1.939592
+            xmax = 1.950476
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 1.950476
+        intervals: size = 17
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.159637
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.159637
+            xmax = 0.319637
+            text = "w"
+        intervals [3]:
+            xmin = 0.319637
+            xmax = 0.539637
+            text = "e"
+        intervals [4]:
+            xmin = 0.539637
+            xmax = 0.659637
+            text = "n"
+        intervals [5]:
+            xmin = 0.659637
+            xmax = 0.689615
+            text = "j"
+        intervals [6]:
+            xmin = 0.689615
+            xmax = 0.719592
+            text = "U"
+        intervals [7]:
+            xmin = 0.719592
+            xmax = 1.439637
+            text = "@"
+        intervals [8]:
+            xmin = 1.439637
+            xmax = 1.499637
+            text = "j"
+        intervals [9]:
+            xmin = 1.499637
+            xmax = 1.659637
+            text = "V"
+        intervals [10]:
+            xmin = 1.659637
+            xmax = 1.749615
+            text = "N"
+        intervals [11]:
+            xmin = 1.749615
+            xmax = 1.789615
+            text = "j"
+        intervals [12]:
+            xmin = 1.789615
+            xmax = 1.819592
+            text = "U"
+        intervals [13]:
+            xmin = 1.819592
+            xmax = 1.849615
+            text = "@"
+        intervals [14]:
+            xmin = 1.849615
+            xmax = 1.879592
+            text = "n"
+        intervals [15]:
+            xmin = 1.879592
+            xmax = 1.909615
+            text = "Q"
+        intervals [16]:
+            xmin = 1.909615
+            xmax = 1.939592
+            text = "t"
+        intervals [17]:
+            xmin = 1.939592
+            xmax = 1.950476
+            text = "<p:>"

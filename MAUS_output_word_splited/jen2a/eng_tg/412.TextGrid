@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.009342
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 9.009342
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 8.207483
+            text = ""
+        intervals [2]:
+            xmin = 8.207483
+            xmax = 8.577460
+            text = "that's"
+        intervals [3]:
+            xmin = 8.577460
+            xmax = 8.957460
+            text = "it"
+        intervals [4]:
+            xmin = 8.957460
+            xmax = 9.009342
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 9.009342
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 8.207483
+            text = ""
+        intervals [2]:
+            xmin = 8.207483
+            xmax = 8.577460
+            text = "D { t s"
+        intervals [3]:
+            xmin = 8.577460
+            xmax = 8.957460
+            text = "I t"
+        intervals [4]:
+            xmin = 8.957460
+            xmax = 9.009342
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 9.009342
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 8.207483
+            text = "<p:>"
+        intervals [2]:
+            xmin = 8.207483
+            xmax = 8.237460
+            text = "D"
+        intervals [3]:
+            xmin = 8.237460
+            xmax = 8.437506
+            text = "{"
+        intervals [4]:
+            xmin = 8.437506
+            xmax = 8.467483
+            text = "t"
+        intervals [5]:
+            xmin = 8.467483
+            xmax = 8.577460
+            text = "s"
+        intervals [6]:
+            xmin = 8.577460
+            xmax = 8.907483
+            text = "I"
+        intervals [7]:
+            xmin = 8.907483
+            xmax = 8.957460
+            text = "t"
+        intervals [8]:
+            xmin = 8.957460
+            xmax = 9.009342
+            text = "<p:>"

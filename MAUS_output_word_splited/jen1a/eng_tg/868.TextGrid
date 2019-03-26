@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.021678
+tiers? <exists> 
+size = 3
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "ORT"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.420000
+            text = "all"
+        intervals [2]:
+            xmin = 0.420000
+            xmax = 0.580000
+            text = ""
+        intervals [3]:
+            xmin = 0.580000
+            xmax = 0.869977
+            text = "right"
+        intervals [4]:
+            xmin = 0.869977
+            xmax = 0.940000
+            text = "ye"
+        intervals [5]:
+            xmin = 0.940000
+            xmax = 0.980000
+            text = "a"
+        intervals [6]:
+            xmin = 0.980000
+            xmax = 1.009977
+            text = "h"
+        intervals [7]:
+            xmin = 1.009977
+            xmax = 1.021678
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "KAN"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.420000
+            text = "O: l"
+        intervals [2]:
+            xmin = 0.420000
+            xmax = 0.580000
+            text = ""
+        intervals [3]:
+            xmin = 0.580000
+            xmax = 0.869977
+            text = "r aI t"
+        intervals [4]:
+            xmin = 0.869977
+            xmax = 0.940000
+            text = "j i:"
+        intervals [5]:
+            xmin = 0.940000
+            xmax = 0.980000
+            text = "eI"
+        intervals [6]:
+            xmin = 0.980000
+            xmax = 1.009977
+            text = "h"
+        intervals [7]:
+            xmin = 1.009977
+            xmax = 1.021678
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 1.021678
+        intervals: size = 11
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.120000
+            text = "O:"
+        intervals [2]:
+            xmin = 0.120000
+            xmax = 0.420000
+            text = "l"
+        intervals [3]:
+            xmin = 0.420000
+            xmax = 0.580000
+            text = "<p:>"
+        intervals [4]:
+            xmin = 0.580000
+            xmax = 0.789977
+            text = "r"
+        intervals [5]:
+            xmin = 0.789977
+            xmax = 0.839955
+            text = "aI"
+        intervals [6]:
+            xmin = 0.839955
+            xmax = 0.869977
+            text = "t"
+        intervals [7]:
+            xmin = 0.869977
+            xmax = 0.899955
+            text = "j"
+        intervals [8]:
+            xmin = 0.899955
+            xmax = 0.940000
+            text = "i:"
+        intervals [9]:
+            xmin = 0.940000
+            xmax = 0.980000
+            text = "eI"
+        intervals [10]:
+            xmin = 0.980000
+            xmax = 1.009977
+            text = "h"
+        intervals [11]:
+            xmin = 1.009977
+            xmax = 1.021678
+            text = "<p:>"
