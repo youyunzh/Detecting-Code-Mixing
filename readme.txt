@@ -1,1 +1,0 @@
-Command lines are in run.sh.
