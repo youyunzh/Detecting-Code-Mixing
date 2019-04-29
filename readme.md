@@ -11,5 +11,7 @@ https://www.phonetik.uni-muenchen.de/forschung/Verbmobil/VM14.7eng.html
 )
 
 Required packages: `pyAudioAnalysis`, `contextlib`, `wave` 
+
 To run: scripts/run.sh
+
 Results and Analysis: doc/Final Report.pdf
